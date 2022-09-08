@@ -1,14 +1,14 @@
 # Hello World, I'm José Nonato!!! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
-### ▶️ Front-end Developer!
+### ▶️ Data Analyst
 
 <img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="190" />
 
 ## About me:
-Sou um estudante de Ciências da Computação com o foco de me tornar um desenvolverdor front-end. Que está obcecado com a ideia de crescer e se aprimorar, sempre buscando conhecimento com outras pessoas, logo que não encontramos sabedoria apenas em folhas ou em telas.
+Sou um estudante de Ciências da Computação com o foco de me tornar um Analista de Dados. Que está obcecado com a ideia de crescer e se aprimorar, sempre buscando conhecimento com outras pessoas, logo que não encontramos sabedoria apenas em folhas ou em telas.
 
 <br/>
 
-I am a Computer Science student with a focus on becoming a front-end developer. Who is obsessed with the idea of ​​growing and improving, always seeking knowledge from other people, as soon as we don't find wisdom only in leaves or on canvas.
+I am a Computer Science student with a focus on becoming a Data Analyst. Who is obsessed with the idea of growing and improving, always seeking knowledge from other people, so we don't find wisdom only in sheets or on canvas.
 
 <br/>
 
